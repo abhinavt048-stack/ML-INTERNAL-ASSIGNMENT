@@ -1,0 +1,22 @@
+,ROC-AUC drop
+NumServices,-0.0002
+gender,-0.0001
+Partner,-0.0001
+DeviceProtection,-0.0
+SeniorCitizen,0.0
+PhoneService,0.0
+StreamingTV,0.0002
+StreamingMovies,0.0004
+Dependents,0.0005
+AvgMonthlySpend,0.0005
+OnlineBackup,0.0007
+MonthlyCharges,0.0008
+MultipleLines,0.0013
+TotalCharges,0.0015
+PaymentMethod,0.004
+PaperlessBilling,0.0045
+TechSupport,0.0046
+OnlineSecurity,0.0066
+InternetService,0.011
+tenure,0.049
+Contract,0.06

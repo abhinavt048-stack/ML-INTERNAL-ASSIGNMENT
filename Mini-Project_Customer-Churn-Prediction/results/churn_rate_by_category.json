@@ -1,0 +1,40 @@
+{
+ "Contract": {
+  "Month-to-month": 42.7,
+  "One year": 11.3,
+  "Two year": 2.8
+ },
+ "InternetService": {
+  "DSL": 19.0,
+  "Fiber optic": 41.9,
+  "No": 7.4
+ },
+ "PaymentMethod": {
+  "Bank transfer (automatic)": 16.7,
+  "Credit card (automatic)": 15.2,
+  "Electronic check": 45.3,
+  "Mailed check": 19.1
+ },
+ "OnlineSecurity": {
+  "No": 41.8,
+  "No internet service": 7.4,
+  "Yes": 14.6
+ },
+ "TechSupport": {
+  "No": 41.6,
+  "No internet service": 7.4,
+  "Yes": 15.2
+ },
+ "SeniorCitizen": {
+  "0": 23.6,
+  "1": 41.7
+ },
+ "Partner": {
+  "No": 33.0,
+  "Yes": 19.7
+ },
+ "Dependents": {
+  "No": 31.3,
+  "Yes": 15.5
+ }
+}

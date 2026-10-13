@@ -1,0 +1,8 @@
+Rank,Algorithm,Clusters,Noise points,Silhouette,Davies-Bouldin,Calinski-Harabasz
+1,DBSCAN,5,29,0.5736,0.483,245.1439
+2,K-Means,5,0,0.5547,0.5722,248.6493
+3,Agglomerative (Ward),5,0,0.5538,0.5779,244.4103
+4,Gaussian Mixture (GMM),5,0,0.5537,0.576,244.9402
+5,Mean Shift,5,0,0.5495,0.5698,246.578
+6,Spectral Clustering,5,0,0.5447,0.586,243.7973
+7,BIRCH,5,0,0.4781,0.6477,144.0135

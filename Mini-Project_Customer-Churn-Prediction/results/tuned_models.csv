@@ -1,0 +1,4 @@
+Algorithm,CV ROC-AUC,Test ROC-AUC,Accuracy,Recall,F1-Score,Best params
+XGBoost (tuned),0.8473246476918049,0.8436513472319099,0.7806955287437899,0.7005347593582888,0.6290516206482593,"{'subsample': 0.7, 'n_estimators': 300, 'max_depth': 2, 'learning_rate': 0.05, 'colsample_bytree': 0.6}"
+Gradient Boosting (tuned),0.8471163646290453,0.8428995840760547,0.7743080198722498,0.7005347593582888,0.6223277909738717,"{'subsample': 0.7, 'n_estimators': 400, 'max_depth': 2, 'learning_rate': 0.03}"
+AdaBoost (tuned),0.8477998168270705,0.839826655299801,0.7757274662881476,0.7352941176470589,0.6351039260969977,"{'n_estimators': 200, 'learning_rate': 0.5}"

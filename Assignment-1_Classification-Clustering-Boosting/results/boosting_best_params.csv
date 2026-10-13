@@ -1,0 +1,7 @@
+,Best hyper-parameters
+AdaBoost,"{'learning_rate': 0.01, 'n_estimators': 50}"
+Gradient Boosting,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}"
+Histogram Gradient Boosting,"{'learning_rate': 0.05, 'max_depth': 3, 'max_iter': 100}"
+XGBoost,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}"
+LightGBM,"{'learning_rate': 0.05, 'n_estimators': 100, 'num_leaves': 7}"
+CatBoost,"{'depth': 3, 'iterations': 200, 'learning_rate': 0.03}"
